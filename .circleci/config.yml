@@ -125,6 +125,7 @@ jobs:
             export PYTHONPATH="$PWD"
             python examples/monitoring_and_alerting.py
             python examples/buckets_management.py
+            python examples/connection_check.py
   check-aws-lambda-layer:
     docker:
       - image: docker:19
