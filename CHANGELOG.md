@@ -6,6 +6,9 @@
 ### Deprecated
 1. [#264](https://github.com/influxdata/influxdb-client-python/pull/264): Deprecated `org_id` options BucketsApi.create_bucket in favor of `org` parameter
 
+### Documentation
+1. [#269](https://github.com/influxdata/influxdb-client-python/pull/269): Add new example: How to check connection credentials
+
 ## 1.18.0 [2021-06-04]
 
 ### Breaking Changes
