@@ -533,7 +533,7 @@ Examples:
 Asynchronous client
 """""""""""""""""""
 
-Data are writen in an asynchronous HTTP request.
+Data are written in an asynchronous HTTP request.
 
 .. code-block:: python
 
@@ -554,7 +554,7 @@ Data are writen in an asynchronous HTTP request.
 Synchronous client
 """"""""""""""""""
 
-Data are writen in a synchronous HTTP request.
+Data are written in a synchronous HTTP request.
 
 .. code-block:: python
 
